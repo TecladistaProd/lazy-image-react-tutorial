@@ -8223,6 +8223,14 @@ react-app-polyfill@^1.0.6:
     regenerator-runtime "^0.13.3"
     whatwg-fetch "^3.0.0"
 
+react-bounds.js@^1.0.6:
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/react-bounds.js/-/react-bounds.js-1.0.7.tgz#d3ce70686e8b824651d643c8e9f5ed4b421e65be"
+  integrity sha512-D0fHX0RGXaNgfMx9XAQL9NzgEzWyUN5ly98/DUGIBoT7euCIi0MAyNE0aDolks45naMGZJ5D4lk9E7yZKWIVmw==
+  dependencies:
+    react "^16.9.0"
+    react-dom "^16.12.0"
+
 react-dev-utils@^10.1.0:
   version "10.1.0"
   resolved "https://registry.yarnpkg.com/react-dev-utils/-/react-dev-utils-10.1.0.tgz#ccf82135f6dc2fc91969bc729ce57a69d8e86025"
@@ -8333,7 +8341,7 @@ react-scripts@3.3.1:
   optionalDependencies:
     fsevents "2.1.2"
 
-react@^16.12.0:
+react@^16.12.0, react@^16.9.0:
   version "16.12.0"
   resolved "https://registry.yarnpkg.com/react/-/react-16.12.0.tgz#0c0a9c6a142429e3614834d5a778e18aa78a0b83"
   integrity sha512-fglqy3k5E+81pA8s+7K0/T3DBCF0ZDOher1elBFzF7O6arXJgzyu/FW+COxFvAWXJoJN9KIZbT2LXlukwphYTA==
