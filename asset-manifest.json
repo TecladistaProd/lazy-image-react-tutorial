@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lazy-image-react-tutorial/static/css/main.1e30ee1b.chunk.css",
+    "main.js": "/lazy-image-react-tutorial/static/js/main.9898ce7d.chunk.js",
+    "main.js.map": "/lazy-image-react-tutorial/static/js/main.9898ce7d.chunk.js.map",
+    "runtime-main.js": "/lazy-image-react-tutorial/static/js/runtime-main.f3ab26b6.js",
+    "runtime-main.js.map": "/lazy-image-react-tutorial/static/js/runtime-main.f3ab26b6.js.map",
+    "static/js/2.5da056f2.chunk.js": "/lazy-image-react-tutorial/static/js/2.5da056f2.chunk.js",
+    "static/js/2.5da056f2.chunk.js.map": "/lazy-image-react-tutorial/static/js/2.5da056f2.chunk.js.map",
+    "index.html": "/lazy-image-react-tutorial/index.html",
+    "precache-manifest.4f0e2a5cbaa00f2af848c5a1467808ab.js": "/lazy-image-react-tutorial/precache-manifest.4f0e2a5cbaa00f2af848c5a1467808ab.js",
+    "service-worker.js": "/lazy-image-react-tutorial/service-worker.js",
+    "static/css/main.1e30ee1b.chunk.css.map": "/lazy-image-react-tutorial/static/css/main.1e30ee1b.chunk.css.map",
+    "static/js/2.5da056f2.chunk.js.LICENSE.txt": "/lazy-image-react-tutorial/static/js/2.5da056f2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3ab26b6.js",
+    "static/js/2.5da056f2.chunk.js",
+    "static/css/main.1e30ee1b.chunk.css",
+    "static/js/main.9898ce7d.chunk.js"
+  ]
+}
